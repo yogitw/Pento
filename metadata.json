@@ -1,0 +1,6 @@
+{
+  "name": "2T Shorts Studio",
+  "description": "Studio pembuatan video YouTube Shorts otomotif motor 2-tak dari hingga 10 foto dengan teks narasi adegan, voiceover AI, dan ekspor video vertikal 9:16.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
